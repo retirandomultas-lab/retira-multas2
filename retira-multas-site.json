@@ -1,0 +1,505 @@
+{
+  "site": {
+    "name": "Retira Multas",
+    "description": "Especialistas em recurso de multas de trânsito, defesa de suspensão e cassação de CNH",
+    "url": "https://retiramultas.com.br",
+    "cnpj": "57.111.920/0001-02",
+    "phone": "(47) 99762-4005",
+    "whatsapp": "5547997624005",
+    "address": {
+      "street": "Rod. Paul Fritz Kuenrich, 1600",
+      "city": "Blumenau",
+      "state": "SC",
+      "country": "Brazil",
+      "complement": "Sala em frente ao DETRAN, Shopping Park Europeu"
+    },
+    "colors": {
+      "primary": "#F5C518",
+      "secondary": "#25D366",
+      "dark": "#0D0D0D",
+      "light": "#F7F7F7",
+      "gray": "#A0A0A0"
+    },
+    "fonts": {
+      "heading": "Montserrat",
+      "body": "Roboto"
+    }
+  },
+  "sections": [
+    {
+      "id": "navbar",
+      "type": "navigation",
+      "logo": "RM",
+      "items": [
+        {
+          "label": "Início",
+          "href": "#inicio"
+        },
+        {
+          "label": "Serviços",
+          "href": "#servicos"
+        },
+        {
+          "label": "Como Funciona",
+          "href": "#como-funciona"
+        },
+        {
+          "label": "Depoimentos",
+          "href": "#depoimentos"
+        },
+        {
+          "label": "Contato",
+          "href": "#contato"
+        }
+      ],
+      "cta": {
+        "text": "Falar no WhatsApp",
+        "href": "https://wa.me/5547997624005",
+        "style": "primary"
+      }
+    },
+    {
+      "id": "hero",
+      "type": "hero",
+      "badge": "5 ANOS DE EXPERIÊNCIA • ATENDIMENTO EM TODO O BRASIL",
+      "headline": "Sua CNH em Risco?",
+      "subheadline": "Nós Defendemos Seus Direitos.",
+      "description": "Especialistas em recurso de multas, defesa de suspensão e cassação de CNH. Atendemos em Blumenau e em todo o Brasil com análise gratuita do seu caso.",
+      "alert": {
+        "icon": "warning",
+        "title": "Atenção: Prazos de recurso são curtos!",
+        "text": "Após receber a notificação, você tem apenas 30 dias para recorrer. Não perca o prazo."
+      },
+      "ctas": [
+        {
+          "text": "Consultar Multa Grátis Agora",
+          "href": "https://wa.me/5547997624005",
+          "style": "primary",
+          "icon": "whatsapp"
+        },
+        {
+          "text": "Ver Nossos Serviços",
+          "href": "#servicos",
+          "style": "secondary"
+        }
+      ],
+      "background_image": "https://d2xsxph8kpxj0f.cloudfront.net/310519663536759710/ExN8VriAZxrfZRYXXeWKRx/hero_retira_multas_a5050d80.jpg"
+    },
+    {
+      "id": "stats",
+      "type": "statistics",
+      "title": "Por que confiar em nós",
+      "stats": [
+        {
+          "number": 2000,
+          "label": "Clientes Atendidos",
+          "icon": "users"
+        },
+        {
+          "number": 5,
+          "label": "Anos de Experiência",
+          "icon": "award"
+        },
+        {
+          "number": 27,
+          "label": "Estados Atendidos",
+          "icon": "map"
+        },
+        {
+          "number": 98,
+          "label": "Taxa de Satisfação",
+          "suffix": "%",
+          "icon": "star"
+        }
+      ]
+    },
+    {
+      "id": "problema",
+      "type": "problem",
+      "title": "O Problema",
+      "description": "Você está em uma situação difícil e precisa de ajuda rápida",
+      "problems": [
+        {
+          "icon": "alert-circle",
+          "title": "Risco de Perder a CNH",
+          "description": "Multas graves podem resultar em suspensão ou cassação da sua carteira de motorista"
+        },
+        {
+          "icon": "clock",
+          "title": "Prazos Curtos",
+          "description": "Você tem apenas 30 dias para recorrer após receber a notificação. O tempo está passando."
+        },
+        {
+          "icon": "file-text",
+          "title": "Burocracia Complexa",
+          "description": "Entender as leis de trânsito e fazer o recurso correto é complicado sem ajuda profissional"
+        }
+      ]
+    },
+    {
+      "id": "solucao",
+      "type": "solution",
+      "title": "Nossa Solução",
+      "description": "Nós cuidamos de tudo para você",
+      "content": "Somos especialistas em defesa de direitos de trânsito. Analisamos sua multa gratuitamente, identificamos se há possibilidade de recurso e entramos com o processo para você. Tudo de forma simples, rápida e segura.",
+      "highlights": [
+        "Análise gratuita do seu caso",
+        "Especialistas em leis de trânsito",
+        "Atendimento em todo o Brasil",
+        "Sem custos ocultos"
+      ]
+    },
+    {
+      "id": "como-funciona",
+      "type": "steps",
+      "title": "Como Funciona",
+      "description": "Processo simples em 4 passos",
+      "steps": [
+        {
+          "number": 1,
+          "title": "Envie Sua Multa",
+          "description": "Mande uma foto ou PDF da sua multa pelo WhatsApp"
+        },
+        {
+          "number": 2,
+          "title": "Análise Gratuita",
+          "description": "Nossa equipe analisa se há possibilidade de recurso"
+        },
+        {
+          "number": 3,
+          "title": "Apresentamos Opções",
+          "description": "Explicamos as melhores estratégias para seu caso"
+        },
+        {
+          "number": 4,
+          "title": "Recurso Enviado",
+          "description": "Entramos com o recurso e acompanhamos o processo"
+        }
+      ]
+    },
+    {
+      "id": "servicos",
+      "type": "services",
+      "title": "Nossos Serviços",
+      "description": "Cobrimos todas as situações de defesa de CNH e recurso de multas",
+      "services": [
+        {
+          "icon": "file-check",
+          "title": "Recurso de Multas",
+          "description": "Recorremos multas injustas ou com erros de procedimento"
+        },
+        {
+          "icon": "shield-alt",
+          "title": "Defesa de Suspensão",
+          "description": "Defendemos sua CNH contra suspensão por pontuação"
+        },
+        {
+          "icon": "ban",
+          "title": "Defesa de Cassação",
+          "description": "Lutamos contra a cassação definitiva da sua carteira"
+        },
+        {
+          "icon": "gavel",
+          "title": "Consultoria Jurídica",
+          "description": "Orientação especializada sobre seus direitos no trânsito"
+        },
+        {
+          "icon": "chart-line",
+          "title": "Análise de Pontuação",
+          "description": "Verificamos sua situação e planejamos a melhor estratégia"
+        },
+        {
+          "icon": "briefcase",
+          "title": "Acompanhamento",
+          "description": "Monitoramos seu processo do início até o resultado final"
+        }
+      ]
+    },
+    {
+      "id": "beneficios",
+      "type": "benefits",
+      "title": "Benefícios de Recorrer",
+      "description": "Veja o que você ganha ao nos contratar",
+      "benefits": [
+        {
+          "icon": "dollar-sign",
+          "title": "Economize Dinheiro",
+          "description": "Evite pagar multas injustas e economize centenas de reais"
+        },
+        {
+          "icon": "shield",
+          "title": "Proteja Sua CNH",
+          "description": "Mantenha sua carteira de motorista segura e ativa"
+        },
+        {
+          "icon": "smile",
+          "title": "Tranquilidade",
+          "description": "Deixe a preocupação conosco e durma tranquilo"
+        },
+        {
+          "icon": "zap",
+          "title": "Processo Rápido",
+          "description": "Resolvemos seu caso de forma ágil e eficiente"
+        },
+        {
+          "icon": "lock",
+          "title": "Confidencialidade",
+          "description": "Seus dados estão seguros e protegidos conosco"
+        },
+        {
+          "icon": "thumbs-up",
+          "title": "Satisfação Garantida",
+          "description": "98% de satisfação entre nossos clientes"
+        }
+      ]
+    },
+    {
+      "id": "depoimentos",
+      "type": "testimonials",
+      "title": "O Que Nossos Clientes Dizem",
+      "rating": "4.9",
+      "reviews_count": 200,
+      "testimonials": [
+        {
+          "name": "João Silva",
+          "city": "São Paulo - SP",
+          "rating": 5,
+          "text": "Excelente atendimento! Conseguiram recorrer minha multa em menos de 2 semanas. Muito profissional!"
+        },
+        {
+          "name": "Maria Santos",
+          "city": "Rio de Janeiro - RJ",
+          "rating": 5,
+          "text": "Salvaram minha CNH! Estava com medo de perder a carteira e eles resolveram tudo rapidinho."
+        },
+        {
+          "name": "Carlos Oliveira",
+          "city": "Belo Horizonte - MG",
+          "rating": 5,
+          "text": "Recomendo muito! Equipe atenciosa, rápida e eficiente. Valeu demais!"
+        },
+        {
+          "name": "Ana Costa",
+          "city": "Brasília - DF",
+          "rating": 5,
+          "text": "Não acreditei que conseguiram anular minha multa. Muito bom mesmo!"
+        },
+        {
+          "name": "Pedro Alves",
+          "city": "Salvador - BA",
+          "rating": 5,
+          "text": "Ótimo custo-benefício. Economizei muito dinheiro com a ajuda deles."
+        },
+        {
+          "name": "Lucia Ferreira",
+          "city": "Fortaleza - CE",
+          "rating": 5,
+          "text": "Profissionais competentes e atenciosos. Resolveram meu problema rapidinho!"
+        }
+      ]
+    },
+    {
+      "id": "brasil",
+      "type": "coverage",
+      "title": "Atendemos em Todo o Brasil",
+      "description": "De Norte a Sul do país, nossa equipe está pronta para defender seus direitos no trânsito",
+      "coverage": {
+        "states": 27,
+        "cities": "Todas as principais cidades",
+        "online": true
+      }
+    },
+    {
+      "id": "urgencia",
+      "type": "urgency",
+      "title": "Não Perca Tempo!",
+      "description": "Você tem apenas 30 dias para recorrer",
+      "message": "Após receber a notificação de multa, o prazo para recurso é de apenas 30 dias. Passado esse período, você perde o direito de recorrer.",
+      "cta": {
+        "text": "Consultar Agora Mesmo",
+        "href": "https://wa.me/5547997624005"
+      }
+    },
+    {
+      "id": "contato",
+      "type": "contact",
+      "title": "Fale Agora com a Retira Multas",
+      "description": "Receba atendimento especializado e entenda quais são as melhores opções para o seu caso",
+      "contact_info": [
+        {
+          "icon": "whatsapp",
+          "title": "WhatsApp",
+          "value": "(47) 99762-4005",
+          "href": "https://wa.me/5547997624005",
+          "description": "Clique para abrir conversa"
+        },
+        {
+          "icon": "clock",
+          "title": "Atendimento Presencial",
+          "value": "Segunda a Sexta, das 10h às 18h",
+          "description": "Venha nos visitar pessoalmente"
+        },
+        {
+          "icon": "phone",
+          "title": "Urgências no WhatsApp",
+          "value": "Todos os dias, das 8h às 20h",
+          "description": "Atendimento rápido para emergências"
+        },
+        {
+          "icon": "map-pin",
+          "title": "Endereço",
+          "value": "Rod. Paul Fritz Kuenrich, 1600",
+          "address": "Itoupava Norte, Blumenau - SC",
+          "complement": "Sala em frente ao DETRAN",
+          "shopping": "Shopping Park Europeu"
+        }
+      ],
+      "form": {
+        "fields": [
+          {
+            "name": "nome",
+            "label": "Nome",
+            "type": "text",
+            "required": true,
+            "placeholder": "Seu nome"
+          },
+          {
+            "name": "telefone",
+            "label": "Telefone",
+            "type": "tel",
+            "required": true,
+            "placeholder": "(00) 00000-0000"
+          },
+          {
+            "name": "cidade",
+            "label": "Cidade",
+            "type": "text",
+            "required": false,
+            "placeholder": "Sua cidade"
+          },
+          {
+            "name": "assunto",
+            "label": "Assunto",
+            "type": "select",
+            "required": false,
+            "options": [
+              "Recurso de Multa",
+              "Defesa de Suspensão de CNH",
+              "Defesa de Cassação de CNH",
+              "Acompanhamento de Processo",
+              "Consultoria Jurídica",
+              "Análise de Pontuação",
+              "Outro"
+            ]
+          },
+          {
+            "name": "mensagem",
+            "label": "Mensagem",
+            "type": "textarea",
+            "required": false,
+            "placeholder": "Descreva brevemente sua situação..."
+          }
+        ]
+      }
+    },
+    {
+      "id": "footer",
+      "type": "footer",
+      "company": {
+        "name": "Retira Multas",
+        "cnpj": "57.111.920/0001-02",
+        "description": "Especialistas em defesa de CNH e recurso de multas de trânsito"
+      },
+      "links": [
+        {
+          "title": "Navegação",
+          "items": [
+            { "label": "Início", "href": "#inicio" },
+            { "label": "Serviços", "href": "#servicos" },
+            { "label": "Como Funciona", "href": "#como-funciona" },
+            { "label": "Depoimentos", "href": "#depoimentos" }
+          ]
+        },
+        {
+          "title": "Contato",
+          "items": [
+            { "label": "WhatsApp", "href": "https://wa.me/5547997624005" },
+            { "label": "Email", "href": "mailto:contato@retiramultas.com.br" },
+            { "label": "Telefone", "href": "tel:+5547997624005" }
+          ]
+        }
+      ],
+      "social": [
+        {
+          "name": "Instagram",
+          "url": "https://instagram.com/retiramultascnh",
+          "icon": "instagram"
+        },
+        {
+          "name": "Facebook",
+          "url": "https://facebook.com/retiramultas",
+          "icon": "facebook"
+        },
+        {
+          "name": "WhatsApp",
+          "url": "https://wa.me/5547997624005",
+          "icon": "whatsapp"
+        }
+      ],
+      "copyright": "© 2024 Retira Multas. Todos os direitos reservados.",
+      "legal": [
+        { "label": "Política de Privacidade", "href": "/privacidade" },
+        { "label": "Termos de Uso", "href": "/termos" }
+      ]
+    }
+  ],
+  "seo": {
+    "title": "Retira Multas — Recurso de Multas e Defesa de CNH em Blumenau e Todo o Brasil",
+    "description": "Especialistas em recurso de multas de trânsito, defesa de suspensão e cassação de CNH. Atendimento em Blumenau - SC e todo o Brasil. 5 anos de experiência. Consulta gratuita pelo WhatsApp.",
+    "keywords": [
+      "recurso de multas Blumenau",
+      "recorrer multa Blumenau",
+      "defesa de suspensão de CNH",
+      "defesa de cassação de CNH",
+      "especialista em trânsito Blumenau",
+      "recurso administrativo de multa",
+      "defesa CNH SC",
+      "recurso de multa online",
+      "advogado de trânsito Blumenau"
+    ],
+    "canonical": "https://retiramultas.com.br",
+    "og_title": "Retira Multas — Recurso de Multas e Defesa de CNH",
+    "og_description": "Especialistas em defesa de CNH e recurso de multas. Atendimento em todo o Brasil. Consulta gratuita.",
+    "og_type": "website",
+    "og_locale": "pt_BR"
+  },
+  "analytics": {
+    "google_analytics_id": "UA-XXXXXXXXX-X",
+    "facebook_pixel_id": "XXXXXXXXXXXXXXXXX",
+    "tracking_events": [
+      {
+        "name": "view_hero_cta",
+        "trigger": "Click on hero CTA button"
+      },
+      {
+        "name": "view_service",
+        "trigger": "Click on service card"
+      },
+      {
+        "name": "contact_form_submit",
+        "trigger": "Submit contact form"
+      },
+      {
+        "name": "whatsapp_click",
+        "trigger": "Click on WhatsApp button"
+      }
+    ]
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "created_at": "2026-04-14",
+    "updated_at": "2026-04-14",
+    "language": "pt-BR",
+    "timezone": "America/Sao_Paulo"
+  }
+}

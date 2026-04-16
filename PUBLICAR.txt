@@ -1,0 +1,75 @@
+╔════════════════════════════════════════════════════════════════╗
+║     RETIRA MULTAS - INSTRUÇÕES RÁPIDAS PARA PUBLICAR           ║
+╚════════════════════════════════════════════════════════════════╝
+
+🚀 OPÇÃO MAIS RÁPIDA (Recomendado):
+
+1. Acesse: https://www.netlify.com
+2. Faça login ou crie conta (grátis)
+3. Clique em "Add new site" → "Deploy manually"
+4. Arraste a pasta "retira-multas-site" para a área de upload
+5. Pronto! Seu site está online em segundos
+
+URL será algo como: https://seu-site-12345.netlify.app
+
+═══════════════════════════════════════════════════════════════
+
+📌 OUTRAS OPÇÕES:
+
+GITHUB PAGES (Grátis):
+1. Crie conta em github.com
+2. Crie repositório "retira-multas"
+3. Faça upload dos arquivos
+4. Vá em Settings → Pages → Deploy from branch
+5. URL: https://seu-usuario.github.io/retira-multas
+
+VERCEL (Grátis):
+1. Acesse vercel.com
+2. Conecte seu GitHub
+3. Selecione o repositório
+4. Deploy automático em segundos
+
+HOSTINGER/BLUEHOST (Pago):
+1. Contrate hospedagem
+2. Acesse cPanel → Gerenciador de Arquivos
+3. Faça upload dos 3 arquivos (index.html, style.css, script.js)
+4. Acesse seu domínio
+
+═══════════════════════════════════════════════════════════════
+
+⚙️ ANTES DE PUBLICAR:
+
+[ ] Alterar número do WhatsApp (5547997624005)
+[ ] Verificar todos os textos
+[ ] Testar em mobile
+[ ] Testar todos os botões
+
+═══════════════════════════════════════════════════════════════
+
+📞 SUPORTE:
+
+Dúvidas sobre Netlify? https://docs.netlify.com
+Dúvidas sobre GitHub? https://pages.github.com
+Dúvidas sobre Vercel? https://vercel.com/docs
+
+═══════════════════════════════════════════════════════════════
+
+✅ ARQUIVOS INCLUSOS:
+
+✓ index.html - Página principal
+✓ style.css - Estilos
+✓ script.js - Interatividade
+✓ .htaccess - Otimizações (Apache)
+✓ robots.txt - SEO
+✓ sitemap.xml - Mapa do site
+✓ README.md - Documentação completa
+✓ PUBLICAR.txt - Este arquivo
+
+═══════════════════════════════════════════════════════════════
+
+🎯 PRONTO PARA VENDER!
+
+Seu site está 100% pronto. Basta publicar e começar a receber
+contatos no WhatsApp!
+
+Boa sorte! 🚀

@@ -1,0 +1,42 @@
+21:57:56.623 Running build in Washington, D.C., USA (East) – iad1
+21:57:56.624 Build machine configuration: 2 cores, 8 GB
+21:57:56.741 Cloning github.com/retirandomultas-lab/retira-multas (Branch: main, Commit: 24a625c)
+21:57:56.742 Previous build caches not available.
+21:57:57.193 Cloning completed: 452.000ms
+21:57:57.457 Running "vercel build"
+21:57:58.110 Vercel CLI 51.2.1
+21:57:58.638 Running "install" command: `pnpm install`...
+21:57:59.164 (node:45) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+21:57:59.164 (Use `node --trace-deprecation ...` to show where the warning was created)
+21:57:59.198  WARN  GET https://registry.npmjs.org/@builder.io%2Fvite-plugin-jsx-loc error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+21:57:59.200  WARN  GET https://registry.npmjs.org/@tailwindcss%2Ftypography error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+21:57:59.201  WARN  GET https://registry.npmjs.org/@tailwindcss%2Fvite error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+21:57:59.201  WARN  GET https://registry.npmjs.org/@types%2Fgoogle.maps error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+21:57:59.202  WARN  GET https://registry.npmjs.org/@types%2Fnode error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+21:57:59.202  WARN  GET https://registry.npmjs.org/@types%2Freact error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+21:57:59.202  WARN  GET https://registry.npmjs.org/@types%2Freact-dom error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+21:57:59.203  WARN  GET https://registry.npmjs.org/@vitejs%2Fplugin-react error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+21:57:59.203  WARN  GET https://registry.npmjs.org/add error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+21:57:59.203  WARN  GET https://registry.npmjs.org/autoprefixer error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+21:57:59.203  WARN  GET https://registry.npmjs.org/esbuild error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+21:57:59.204  WARN  GET https://registry.npmjs.org/pnpm error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+21:57:59.204  WARN  GET https://registry.npmjs.org/postcss error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+21:57:59.204  WARN  GET https://registry.npmjs.org/prettier error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+21:57:59.204  WARN  GET https://registry.npmjs.org/tailwindcss error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+21:57:59.204  WARN  GET https://registry.npmjs.org/@types%2Fexpress error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+21:58:09.199  WARN  GET https://registry.npmjs.org/@builder.io%2Fvite-plugin-jsx-loc error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:58:09.202  WARN  GET https://registry.npmjs.org/@tailwindcss%2Ftypography error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:58:09.203  WARN  GET https://registry.npmjs.org/@tailwindcss%2Fvite error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:58:09.203  WARN  GET https://registry.npmjs.org/@types%2Fgoogle.maps error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:58:09.203  WARN  GET https://registry.npmjs.org/@types%2Fnode error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:58:09.203  WARN  GET https://registry.npmjs.org/@types%2Freact error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:58:09.204  WARN  GET https://registry.npmjs.org/@types%2Freact-dom error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:58:09.204  WARN  GET https://registry.npmjs.org/@vitejs%2Fplugin-react error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:58:09.204  WARN  GET https://registry.npmjs.org/add error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:58:09.205  WARN  GET https://registry.npmjs.org/autoprefixer error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:58:09.205  WARN  GET https://registry.npmjs.org/esbuild error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:58:09.205  WARN  GET https://registry.npmjs.org/pnpm error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:58:09.205  WARN  GET https://registry.npmjs.org/postcss error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:58:09.205  WARN  GET https://registry.npmjs.org/prettier error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:58:09.206  WARN  GET https://registry.npmjs.org/tailwindcss error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+21:58:09.206  WARN  GET https://registry.npmjs.org/@types%2Fexpress error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
